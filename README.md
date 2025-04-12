@@ -1,5 +1,5 @@
 # Mapa-de-imagenes
-<!DOCTYPE html>
+
 <head>
     <title>Mapa de Europa</title>
 </head>
